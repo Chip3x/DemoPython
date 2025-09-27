@@ -1,0 +1,34 @@
+# Byte-compiled and cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Environment and virtualenv
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Testing and coverage
+.tox/
+.coverage
+.pytest_cache/
+
+# IDEs
+.idea/
+
+# Documentation
+docs/_build/
+
+# Miscellaneous
+*.log
+.ipynb_checkpoints/
